@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItsYadavNikhil
+- 👋 Hi, I’m Nikhil
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning AWS Cloud and Machine Learning
 - 💞️ I’m looking to collaborate on any kind of Project
