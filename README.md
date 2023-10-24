@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsYadavNikhil
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning AWS Cloud
+- 🌱 I’m currently learning AWS Cloud and Machine Learning
 - 💞️ I’m looking to collaborate on any kind of Project
 - 📫 You can reach me at nikhilyadavcodes@gmail.com
 
